@@ -1,0 +1,15 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fcf8d4;
+}
+h1, h2, a {
+    color: chocolate;
+}
+p {
+    color: black;
+}
+li {
+    line-height: 1.5;
+    font-weight: bold;
+    padding-left: 2rem;
+}
